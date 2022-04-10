@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @videogamerm
-- 👀 I’m interested in python,javascript, php and ruby
+- 👀 I’m interested in python,javascript, html and others.
 
 <!---
 videogamerm/videogamerm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
